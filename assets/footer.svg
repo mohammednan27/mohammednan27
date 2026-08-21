@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" role="img" aria-label="Keep building">
-<rect width="1200" height="90" fill="#0b0b0b"/>
-<path d="M80 44H1120" stroke="#333"/>
-<path d="M80 44H300" stroke="#d9a441" stroke-width="2">
-<animate attributeName="x2" values="80;1120;80" dur="5s" repeatCount="indefinite"/>
-</path>
-<text x="600" y="52" text-anchor="middle" fill="#d9a441" font-family="monospace" font-size="17" letter-spacing="3">KEEP BUILDING</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 150" role="img" aria-label="Keep building"><rect width="1400" height="150" fill="#080808"/><path d="M0 75H1400" stroke="#d6a53a" stroke-dasharray="2 10"><animate attributeName="stroke-dashoffset" from="0" to="-120" dur="4s" repeatCount="indefinite"/></path><text x="700" y="68" text-anchor="middle" fill="#f4f1e8" font-family="monospace" font-size="24" font-weight="700">EOF</text><text x="700" y="100" text-anchor="middle" fill="#777" font-family="monospace" font-size="14">keep building · keep questioning · keep shipping</text><rect x="520" y="116" width="360" height="2" fill="#d6a53a"><animate attributeName="width" values="80;360;80" dur="5s" repeatCount="indefinite"/><animate attributeName="x" values="660;520;660" dur="5s" repeatCount="indefinite"/></rect></svg>
